@@ -1,0 +1,7 @@
+paymentId,statusCode,scenario
+1234abcd,204,Success
+5678efgh,401,Unauthorized
+9jkl0123,204,Success
+mnop4567,401,Unauthorized
+qrst8901,204,Success
+uvwxyz02,401,Unauthorized

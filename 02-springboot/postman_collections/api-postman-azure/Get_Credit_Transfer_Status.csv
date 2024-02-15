@@ -1,0 +1,4 @@
+paymentId,statusCode,scenario
+123ABC,200,Success
+XYZ890,401,Unauthorized
+456DEF,403,Forbidden

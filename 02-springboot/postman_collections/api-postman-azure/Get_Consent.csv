@@ -1,0 +1,10 @@
+consentId,statusCode,scenario
+9b6a4bec-ab4e-40cb-9a96-3937a9beaee8,200,Success
+d8469ad9-7efa-43e2-9f0a-86c8de824537,401,Unauthorized
+27cbd0bb-e47a-4ac3-9c20-6a7e0444b65b,403,Forbidden
+aef40af7-89c8-4e3f-a7c9-0516e58a0ffe,200,Success
+2f9528a8-7370-4d26-98a3-c8b9defbcd44,401,Unauthorized
+105e7af3-963b-4628-b441-3f5cbb8ea842,403,Forbidden
+d3ddef95-49ba-4d24-9043-f5862b24fdb6,200,Success
+e7c79e82-6cc6-4226-a51a-2b39dd62ff46,401,Unauthorized
+e8cdf3bb-3a6c-41ec-adc5-400015562c69,403,Forbidden

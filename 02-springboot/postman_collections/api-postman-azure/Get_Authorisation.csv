@@ -1,0 +1,11 @@
+consentId,authorisationId,statusCode,scenario
+b19bbd18-1c79-4c7f-8cfc-e3d269c64114,887de83c-0e38-432c-94ec-a95d1df10e76,200,Success
+a4b2aaae-c8a0-445d-9827-be0013a98983,fa3c25d0-c027-49f4-b3eb-b197a4806bc5,201,Success
+de09d5b6-77ba-4dbb-83ff-2db9e4c696e8,58c20e7a-2331-4df4-9976-214c65ad0cef,200,Success
+41d0ab08-aebb-4562-babc-85fc8e8cf3ba,09cdd5c0-ce56-4c78-8b1d-6b3d216f3fcc,250,Success
+a8b09213-ac4b-43b4-8f70-f5e02c8c60b4,cdb5d3a3-ace6-42bc-b65e-4cf06b8e021b,299,Success
+97b0e2d2-946a-4d8e-bfd1-dba93942ff71,dcfa2c9c-a6fd-492d-9f58-2212b7efa60e,310,Error
+13984cc4-2c5b-4d4c-9f9b-31d73ae0f3b1,5477633e-571b-4a91-a702-9ab3e1c7a765,105,Error
+2207067d-acc8-4b7b-ad8d-d246c8f6beab,3836ee8e-f3dd-4c88-bb28-6e7d737e243b,400,Error
+fd5faaed-977f-461c-baef-7e45cb0c734c,84d95288-f5a7-4d3d-b74e-5db1d4b2ee9b,150,Error
+356b0cb1-b36d-47ad-b3ab-031d01852cc5,325982fc-ef38-4b68-b8ac-2f392cf528fd,403,Error

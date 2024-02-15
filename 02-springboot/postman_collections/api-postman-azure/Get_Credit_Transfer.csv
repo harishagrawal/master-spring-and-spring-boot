@@ -1,0 +1,10 @@
+paymentId,statusCode,scenario
+abc123,200,Success
+def456,201,Success
+ghi789,300,Error
+jkl012,250,Success
+mno345,500,Error
+pqr678,204,Success
+stu901,270,Success
+vwx234,400,Error
+yz1234,210,Success

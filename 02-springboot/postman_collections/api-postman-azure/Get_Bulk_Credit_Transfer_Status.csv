@@ -1,0 +1,13 @@
+paymentId,statusCode,scenario
+FCN98587,200,Success
+BCN43654,401,Unauthorized
+HDN54328,403,Forbidden
+ZCN98452,200,Success
+VCN75491,401,Unauthorized
+LCN14582,403,Forbidden
+PCN76543,200,Success
+UCN56473,401,Unauthorized
+ICN23847,403,Forbidden
+NCN87453,200,Success
+SCN97563,401,Unauthorized
+DCN63852,403,Forbidden

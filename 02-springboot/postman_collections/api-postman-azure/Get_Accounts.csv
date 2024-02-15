@@ -1,0 +1,4 @@
+withBalance,statusCode,scenario
+false,200,Success
+true,400,Bad Request
+false,401,Unauthorized

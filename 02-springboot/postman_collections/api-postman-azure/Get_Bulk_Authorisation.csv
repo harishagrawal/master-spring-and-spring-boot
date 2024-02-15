@@ -1,0 +1,11 @@
+paymentId,authorisationId,statusCode,scenario
+"1","Auth1",200,Success
+"2","Auth2",201,Success
+"3","Auth3",202,Success
+"4","Auth4",203,Success
+"5","Auth5",299,Success
+"6","Auth6",300,"Error"
+"7","Auth7",400,"Error"
+"8","Auth8",500,"Error"
+"9","Auth9",600,"Error"
+"10","Auth10",700,"Error"

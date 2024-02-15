@@ -1,0 +1,11 @@
+paymentId,statusCode,scenario
+1AB2345CD,204,Success
+2EF4567GH,401,Unauthorized
+3IJ7890KL,204,Success
+4MN1234OP,401,Unauthorized
+5QR5678ST,204,Success
+6UV9101WX,401,Unauthorized
+7YZ2345AB,204,Success
+8CD4567EF,401,Unauthorized
+9GH7890IJ,204,Success
+10KL1234MN,401,Unauthorized

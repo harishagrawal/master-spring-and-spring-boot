@@ -1,0 +1,7 @@
+withBalance,account-Id,statusCode,scenario
+false,nisi minim,200,Success
+true,cupidata,200,Success
+false,eiusmod occaecat fugiat laboris,200,Success
+true,Ut Duis nulla exercitation,200,Success
+false,mollit tempor minim ex,200,Success
+true,in enim labore,200,Success

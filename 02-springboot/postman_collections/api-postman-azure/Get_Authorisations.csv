@@ -1,0 +1,5 @@
+consentId,statusCode,scenario
+ipsum consequat,200,Success
+occaecat,200,Success
+473b3914-2f76-4589-8426-0f8830aeb448,400,Error
+21b72c72-4aa5-4f63-bc76-93a62082bbc3,500,Error
