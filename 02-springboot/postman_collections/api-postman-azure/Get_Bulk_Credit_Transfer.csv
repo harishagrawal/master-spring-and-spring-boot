@@ -1,0 +1,11 @@
+paymentId,statusCode,scenario
+x12j9ns5s01,200,Success
+xe3r4sds204,205,Success
+xb5jkl5s205,210,Success
+xs3jsd5s299,201,Success
+xf7jkl5s209,220,Success
+x09jas5s250,203,Success
+x88jkl5s265,210,Success
+x66jsd5s295,201,Success
+x99jas5s280,250,Success
+x33jas5s260,205,Success

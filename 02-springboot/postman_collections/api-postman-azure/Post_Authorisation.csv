@@ -1,0 +1,5 @@
+paymentId,statusCode,scenario
+random_string_1,201,Success
+random_string_2,401,Unauthorized
+random_string_3,202,Success
+random_string_4,301,Unauthorized

@@ -1,0 +1,3 @@
+consentId,statusCode,scenario
+4acef3dd-defe-470d-9d8b-6cc8c462a915,204,Success
+5717a3ca-0c3b-4f33-9a75-8ea9fb9f139d,401,Unauthorized

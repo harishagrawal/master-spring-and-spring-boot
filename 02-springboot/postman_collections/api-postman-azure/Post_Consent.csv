@@ -1,0 +1,6 @@
+allPsd2,availableaccounts,balances,transactions,accounts,recurringIndicator,validUntil,frequencyPerDay,combinedServiceIndicator,statusCode,scenario
+someValue,otherValue,[1,2,3],[4,5,6],[7,8,9],true,2022-01-01,5,false,201,Success
+randomValue,anyValue,[10,11,12],[13,14,15],[16,17,18],false,2022-02-02,7,true,400,Bad Request
+differentValue,specialValue,[20,21,22],[23,24,25],[26,27,28],true,2023-03-03,10,false,401,Unauthorized
+uniqueValue,commonValue,[30,31,32],[33,34,35],[36,37,38],false,2024-04-04,15,true,400,Bad Request
+someOtherValue,evenMoreValue,[40,41,42],[43,44,45],[46,47,48],true,2025-05-05,20,false,401,Unauthorized

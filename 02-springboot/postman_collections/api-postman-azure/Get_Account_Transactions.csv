@@ -1,0 +1,11 @@
+date_from,bookingStatus,withBalance,date_to,account-Id,statusCode,scenario
+2021-07-01,Confirmed,false,2021-07-10,123456,200,Success
+2021-07-02,Cancelled,true,2021-07-15,789123,200,Success
+2021-07-03,Confirmed,false,2021-07-20,456789,201,Success
+2021-07-04,Cancelled,true,2021-07-25,321654,250,Success
+2021-07-05,Confirmed,false,2021-07-30,654321,299,Success
+2021-07-06,Confirmed,true,2021-08-01,102938,310,Failure
+2021-07-07,Cancelled,false,2021-08-05,203948,500,Failure
+2021-07-08,Confirmed,true,2021-08-10,940183,401,Failure
+2021-07-09,Cancelled,false,2021-08-15,283647,404,Failure
+2021-07-10,Confirmed,true,2021-08-20,464839,400,Failure
