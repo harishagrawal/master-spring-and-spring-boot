@@ -1,0 +1,6 @@
+date_from,bookingStatus,withBalance,date_to,account-Id,statusCode,scenario
+01/01/2022,Confirmed,True,01/31/2022,1234567,200,Success
+02/01/2022,Canceled,False,02/28/2022,7654321,200,Success
+03/01/2022,Confirmed,True,03/31/2022,2345678,200,Success
+04/01/2022,Scheduled,False,04/30/2022,6543210,200,Success
+05/01/2022,Confirmed,True,05/31/2022,0987654,200,Success

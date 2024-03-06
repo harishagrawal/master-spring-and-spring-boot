@@ -1,0 +1,4 @@
+consentId,statusCode,scenario
+enim dolore anim,200,Success
+officia ipsum quis est,401,Unauthorized
+officia ipsum quis est,403,Forbidden

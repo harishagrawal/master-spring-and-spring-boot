@@ -1,0 +1,3 @@
+paymentId,statusCode,scenario
+transactionStatus,204,Success
+psuMessage,401,Unauthorized

@@ -1,0 +1,7 @@
+consentId,statusCode,scenario
+psuMessage:officia ipsum quis est,204,Success
+tppMessages:[{category:do minim eiusmod aliqua sunt, code:minim cupidatat, path:occaecat in in, text:eiusmod},{category:esse culpa, code:voluptate consequat do in, path:deserunt dolore, text:in laboris dolore}],204,Success
+_links:{aliqua69:{href:ut},ut4a1:{href:veniam sint e}},204,Success
+psuMessage:officia ipsum quis est,401,Unauthorized
+tppMessages:[{category:do minim eiusmod aliqua sunt, code:minim cupidatat, path:occaecat in in, text:eiusmod},{category:esse culpa, code:voluptate consequat do in, path:deserunt dolore, text:in laboris dolore}],401,Unauthorized
+_links:{aliqua69:{href:ut},ut4a1:{href:veniam sint e}},401,Unauthorized
