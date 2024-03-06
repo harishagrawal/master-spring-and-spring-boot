@@ -1,0 +1,4 @@
+paymentId,statusCode,scenario
+1,200,Success
+2,401,Unauthorized
+3,403,Forbidden

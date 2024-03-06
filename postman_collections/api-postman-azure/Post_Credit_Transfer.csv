@@ -1,0 +1,3 @@
+currency,amount,iban,debtorName,creditorName,ultimateDebtor,ultimateCreditor,debtorId,creditorId,creditorAgent,country,street,buildingNumber,postalCode,city,requestedExecutionDate,endToEndIdentification,purposeCode,remittanceInformationUnstructured,reference,referenceType,referenceIssuer,statusCode,scenario
+USD,1000,DE89370400440532013000,John Doe,ABC Company,Liam Smith,Paul Jones,JD001,ABC001,BANK01,US,Wall Street,5,10005,New York,2022-05-01,ENDTOEND01,PC01,Remittance Info,Ref01,RT01,RI01,201,Success
+EUR,2000,FR7630006000011234567890189,Jane Doe,XYZ Company,Emma Wilson,Emily Taylor,JD002,XYZ002,BANK02,FR,Elysées,77,75008,Paris,2022-05-02,ENDTOEND02,PC02,Remittance Info,Ref02,RT02,RI02,401,Unauthorized

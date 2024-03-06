@@ -1,0 +1,3 @@
+paymentId,statusCode,scenario
+Transaction1,204,Success
+Transaction2,401,Unauthorized

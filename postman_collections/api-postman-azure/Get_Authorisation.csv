@@ -1,0 +1,6 @@
+consentId,authorisationId,statusCode,scenario
+1,1,200,Success
+2,2,200,Success
+3,3,200,Success
+4,4,200,Success
+5,5,200,Success

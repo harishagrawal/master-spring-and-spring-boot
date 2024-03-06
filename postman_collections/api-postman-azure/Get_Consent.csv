@@ -1,0 +1,4 @@
+consentId,statusCode,scenario
+abcd1234,200,Success
+efgh5678,401,Unauthorized
+ijkl9012,403,Forbidden
