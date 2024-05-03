@@ -1,0 +1,16 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+learn-spring-framework,com.in28minutes.learnspringframework.helloworld,HelloWorldConfiguration,61,0,0,0,10,0,10,0,10,0
+learn-spring-framework,com.in28minutes.learnspringframework.helloworld,App02HelloWorldSpring,59,0,0,0,12,0,2,0,2,0
+learn-spring-framework,com.in28minutes.learnspringframework.helloworld,Person,21,0,0,0,1,0,4,0,4,0
+learn-spring-framework,com.in28minutes.learnspringframework.helloworld,Address,15,0,0,0,1,0,3,0,3,0
+learn-spring-framework,com.in28minutes.learnspringframework.test,Pojo,9,0,0,0,2,0,2,0,2,0
+learn-spring-framework,com.in28minutes.learnspringframework.test,ExploringVar,30,0,2,0,8,0,3,0,2,0
+learn-spring-framework,com.in28minutes.learnspringframework.test,JavaBean,17,0,0,0,8,0,5,0,5,0
+learn-spring-framework,com.in28minutes.learnspringframework.test,SpringBeanVsJavaBean,11,0,0,0,4,0,2,0,2,0
+learn-spring-framework,com.in28minutes.learnspringframework,App01GamingBasicJava,15,0,0,0,5,0,2,0,2,0
+learn-spring-framework,com.in28minutes.learnspringframework,App03GamingSpringBeans,24,0,0,0,5,0,2,0,2,0
+learn-spring-framework,com.in28minutes.learnspringframework,GamingConfiguration,16,0,0,0,5,0,3,0,3,0
+learn-spring-framework,com.in28minutes.learnspringframework.game,MarioGame,0,19,0,0,0,9,0,5,0,5
+learn-spring-framework,com.in28minutes.learnspringframework.game,PacmanGame,0,19,0,0,0,9,0,5,0,5
+learn-spring-framework,com.in28minutes.learnspringframework.game,SuperContraGame,12,7,0,0,6,3,3,2,3,2
+learn-spring-framework,com.in28minutes.learnspringframework.game,GameRunner,0,25,0,0,0,9,0,2,0,2
