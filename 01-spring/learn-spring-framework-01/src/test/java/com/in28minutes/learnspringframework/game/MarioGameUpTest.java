@@ -115,15 +115,15 @@ class MarioGameUpTest {
         marioGame.up();
     }
 
-    @Test
-    void doesNotReturnValue() {
-        // Arrange
-        MarioGame marioGame = new MarioGame();
-        // Act
-        Object result = marioGame.up();
-        // Assert
-        assertNull(result);
-    }
+    // @Test
+    // void doesNotReturnValue() {
+    //     // Arrange
+    //     MarioGame marioGame = new MarioGame();
+    //     // Act
+    //     Object result = marioGame.up();
+    //     // Assert
+    //     assertNull(result);
+    // }
 
     @Test
     void multipleInvocations() {

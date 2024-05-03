@@ -97,7 +97,7 @@ class GameRunnerRunTest {
     private GameRunner gameRunner;
     
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
-    private final PrintStream originalOut = System.out;
+    // private final PrintStream originalOut = System.out;
     
     @BeforeEach
     void setUp() {
@@ -119,7 +119,7 @@ class GameRunnerRunTest {
     @Test
     void gameObjectNotNull() {
         // Arrange
-        gameRunner.game = null;
+        gameRunner = new GameRunner(null);
         // Act & Assert
         assertThrows(NullPointerException.class, () -> gameRunner.run());
     }
@@ -145,7 +145,7 @@ class GameRunnerRunTest {
                 System.out.println("Custom right");
             }
         };
-        gameRunner.game = customGame;
+        gameRunner = new GameRunner(customGame);
         // Act
         gameRunner.run();
         // Assert
