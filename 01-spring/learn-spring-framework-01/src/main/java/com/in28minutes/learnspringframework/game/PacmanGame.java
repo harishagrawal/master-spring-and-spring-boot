@@ -1,7 +1,7 @@
 package com.in28minutes.learnspringframework.game;
 
-public class PacmanGame implements GamingConsole{
-	
+public class PacmanGame implements GamingConsole {
+
 	public void up() {
 		System.out.println("up");
 	}
@@ -9,7 +9,7 @@ public class PacmanGame implements GamingConsole{
 	public void down() {
 		System.out.println("down");
 	}
-	
+
 	public void left() {
 		System.out.println("left");
 	}
